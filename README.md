@@ -25,6 +25,16 @@ This project is designed for small businesses or personal storefronts that want 
 - Easy-to-update product list and pricing
 - Works locally and can be deployed on Streamlit Cloud
 
+## Screenshots
+
+### Output 1
+
+![TechCart Home Page](output1.png)
+
+### Output 2
+
+![TechCart Product Section](ouput2.png)
+
 ## Project Structure
 
 ```text
